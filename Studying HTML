@@ -1,0 +1,21 @@
+<!DOCTYPE html> <!-- Define o tipo do documento como HTML5 -->
+<html lang="en"> <!-- Início do documento HTML com idioma inglês -->
+  <head>
+    <meta charset="UTF-8"> <!-- Define a codificação de caracteres como UTF-8 -->
+    <title>Receita de brigadeiro</title> <!-- Título da página que aparece na aba do navegador -->
+  </head>
+  <body>
+    <h1>Brigadeiro de Micro-ondas</h1> <!-- Título principal da página -->
+
+    <!-- Parágrafo descrevendo a receita -->
+    <p>
+      Come try our microwave brigadeiro — ready in just a few minutes, super creamy, and packed with that rich chocolate flavor that melts in your mouth.
+      Made with simple ingredients and just the right amount of love, it’s perfect for satisfying your sweet tooth without the mess.
+    </p>
+
+    <!-- Imagem em base64 do brigadeiro (o src está bem longo porque contém os dados da imagem diretamente no HTML) -->
+    <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkG..." />
+
+    <!-- Aqui você pode adicionar mais conteúdo como uma lista de ingredientes ou modo de preparo se quiser -->
+  </body>
+</html>
